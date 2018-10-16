@@ -1,1 +1,1 @@
-# DifferentialEquationsModels
+# Differential Equations Modeling and Visualization
